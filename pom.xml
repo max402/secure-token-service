@@ -65,7 +65,7 @@
         <h2.version>2.2.224</h2.version>
         <mockito.version>5.11.0</mockito.version>
         <catch-exception.version>1.4.6</catch-exception.version>
-        <nimbus-jose-jwt.version>9.37.3</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>10.0.2</nimbus-jose-jwt.version>
         <scmBranch/>
         <nexus-staging-maven-plugin.version>1.6.13</nexus-staging-maven-plugin.version>
         <maven-source-plugin.version>3.3.0</maven-source-plugin.version>
@@ -294,7 +294,7 @@
             <dependency>
                 <groupId>org.apache.commons</groupId>
                 <artifactId>commons-lang3</artifactId>
-                <version>3.9</version>
+                <version>3.18.0</version>
             </dependency>
 
             <!-- Database -->
